@@ -1,6 +1,7 @@
 # ros-web-joy-pub-vue
 
-gitpod.io/#https://github.com/ntrlmt/ros-web-joy-pub-vue
+* gitpod  
+https://gitpod.io/#github.com/ntrlmt/ros-web-joy-pub-vue
 
 ## Project setup
 ```
