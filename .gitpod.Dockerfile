@@ -1,6 +1,4 @@
 FROM node:12.16.1-stretch
-                    
-USER gitpod
 
 RUN npm install -g @vue/cli
 
