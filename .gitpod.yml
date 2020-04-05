@@ -2,3 +2,8 @@ tasks:
   - init: npm install && npm run build
 image:
   file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - mubaidr.vuejs-extension-pack@1.1.6:Mt8qgdqHq/+zQy5djSOSDQ==
+    - octref.vetur@0.24.0:wQwUWmMBrV2Y+ZN1GPaapg==
